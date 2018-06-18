@@ -2,3 +2,7 @@
 /data
 /glove.6B
 /__pycache__
+*.pkl
+*.npy
+*.H5
+LR.H5
